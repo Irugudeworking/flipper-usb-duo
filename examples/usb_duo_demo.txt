@@ -1,0 +1,4 @@
+REM Focus a blank text editor, then press OK on Flipper.
+DELAY 2000
+STRING USB Duo keyboard is working; the FLIPDUO drive is available at the same time.
+ENTER

@@ -1,0 +1,6 @@
+REM Harmless diagnostic key while disk stays online
+F24
+DELAY 2000
+F24
+DELAY 2000
+F24
