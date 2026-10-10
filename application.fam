@@ -1,0 +1,6 @@
+App(
+ appid="usb_duo", name="USB Duo", apptype=FlipperAppType.EXTERNAL,
+ entry_point="usb_duo_app", stack_size=4096,
+ requires=["gui", "dialogs"], fap_category="USB", fap_icon="assets/icon.png", fap_version="1.1.0",
+ fap_description="BadUSB scripts and USB disk image at the same time",
+)
